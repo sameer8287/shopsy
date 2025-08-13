@@ -1,0 +1,242 @@
+{
+  "businessDomain": "Entertainment",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Movies",
+      "products": [
+        {
+          "id": "MOV001",
+          "title": "Inception",
+          "subtitle": "A mind-bending sci-fi thriller",
+          "description": "A skilled thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+          "director": "Christopher Nolan",
+          "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+          "genre": ["Science Fiction", "Thriller"],
+          "language": "English",
+          "releaseYear": 2010,
+          "durationMinutes": 148,
+          "price": 3.99,
+          "currency": "USD",
+          "type": "Digital Rental",
+          "rating": 4.8,
+          "ratingCount": 1250000,
+          "media": {
+            "thumbnails": [
+              "https://upload.wikimedia.org/wikipedia/en/1/18/Inception_OST.jpg",
+              "https://upload.wikimedia.org/wikipedia/en/1/18/Inception_OST.jpg"
+            ],
+            "trailer": "https://example.com/trailers/inception.mp4"
+          }
+        },
+        {
+          "id": "MOV002",
+          "title": "The Dark Knight",
+          "subtitle": "Batman faces his greatest enemy",
+          "description": "With the help of allies, Batman confronts the Joker, a criminal mastermind spreading chaos across Gotham.",
+          "director": "Christopher Nolan",
+          "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+          "genre": ["Action", "Crime", "Drama"],
+          "language": "English",
+          "releaseYear": 2008,
+          "durationMinutes": 152,
+          "price": 3.99,
+          "currency": "USD",
+          "type": "Digital Rental",
+          "rating": 4.9,
+          "ratingCount": 2300000,
+          "media": {
+            "thumbnails": [
+              "https://m.media-amazon.com/images/S/pv-target-images/e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg"
+            ],
+            "trailer": "https://example.com/trailers/darkknight.mp4"
+          }
+        },
+        {
+          "id": "MOV003",
+          "title": "Avatar",
+          "subtitle": "A visually stunning sci-fi epic",
+          "description": "A paraplegic Marine dispatched to Pandora becomes torn between following orders and protecting an alien civilization.",
+          "director": "James Cameron",
+          "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+          "genre": ["Science Fiction", "Adventure"],
+          "language": "English",
+          "releaseYear": 2009,
+          "durationMinutes": 162,
+          "price": 4.49,
+          "currency": "USD",
+          "type": "Digital Purchase",
+          "rating": 4.7,
+          "ratingCount": 1800000,
+          "media": {
+            "thumbnails": [
+              "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_.jpg"
+            ],
+            "trailer": "https://example.com/trailers/avatar.mp4"
+          }
+        },
+        {
+          "id": "MOV004",
+          "title": "Interstellar",
+          "subtitle": "A journey beyond the stars",
+          "description": "A group of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+          "director": "Christopher Nolan",
+          "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+          "genre": ["Science Fiction", "Drama"],
+          "language": "English",
+          "releaseYear": 2014,
+          "durationMinutes": 169,
+          "price": 4.49,
+          "currency": "USD",
+          "type": "Digital Purchase",
+          "rating": 4.8,
+          "ratingCount": 1500000,
+          "media": {
+            "thumbnails": [
+              "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+            ],
+            "trailer": "https://example.com/trailers/interstellar.mp4"
+          }
+        },
+        {
+          "id": "MOV005",
+          "title": "Titanic",
+          "subtitle": "A timeless love story",
+          "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated RMS Titanic.",
+          "director": "James Cameron",
+          "cast": ["Leonardo DiCaprio", "Kate Winslet"],
+          "genre": ["Romance", "Drama"],
+          "language": "English",
+          "releaseYear": 1997,
+          "durationMinutes": 195,
+          "price": 3.99,
+          "currency": "USD",
+          "type": "Digital Rental",
+          "rating": 4.9,
+          "ratingCount": 2200000,
+          "media": {
+            "thumbnails": [
+              "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg"
+            ],
+            "trailer": "https://example.com/trailers/titanic.mp4"
+          }
+        },
+        {
+          "id": "MOV006",
+          "title": "Avengers: Endgame",
+          "subtitle": "The epic conclusion to the Infinity Saga",
+          "description": "The Avengers assemble once more to reverse the damage caused by Thanos and restore balance to the universe.",
+          "director": "Anthony Russo, Joe Russo",
+          "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+          "genre": ["Action", "Adventure", "Sci-Fi"],
+          "language": "English",
+          "releaseYear": 2019,
+          "durationMinutes": 181,
+          "price": 4.99,
+          "currency": "USD",
+          "type": "Digital Purchase",
+          "rating": 4.8,
+          "ratingCount": 2100000,
+          "media": {
+            "thumbnails": [
+              "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg"
+            ],
+            "trailer": "https://example.com/trailers/endgame.mp4"
+          }
+        },
+        {
+          "id": "MOV007",
+          "title": "Joker",
+          "subtitle": "A chilling origin story",
+          "description": "Arthur Fleck, a failed comedian, descends into madness and becomes the criminal mastermind known as the Joker.",
+          "director": "Todd Phillips",
+          "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+          "genre": ["Crime", "Drama", "Thriller"],
+          "language": "English",
+          "releaseYear": 2019,
+          "durationMinutes": 122,
+          "price": 3.99,
+          "currency": "USD",
+          "type": "Digital Rental",
+          "rating": 4.7,
+          "ratingCount": 1400000,
+          "media": {
+            "thumbnails": [
+            "https://upload.wikimedia.org/wikipedia/en/e/e8/Joker_-_Folie_%C3%A0_Deux_poster.jpg"
+            ],
+            "trailer": "https://example.com/trailers/joker.mp4"
+          }
+        },
+        {
+          "id": "MOV008",
+          "title": "Parasite",
+          "subtitle": "An Oscar-winning social satire",
+          "description": "A poor family schemes to become employed by a wealthy family by infiltrating their household.",
+          "director": "Bong Joon-ho",
+          "cast": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+          "genre": ["Thriller", "Drama"],
+          "language": "Korean",
+          "releaseYear": 2019,
+          "durationMinutes": 132,
+          "price": 3.99,
+          "currency": "USD",
+          "type": "Digital Rental",
+          "rating": 4.8,
+          "ratingCount": 950000,
+          "media": {
+            "thumbnails": [
+              "https://m.media-amazon.com/images/I/81cYnCyFCYL._UF1000,1000_QL80_.jpg"
+            ],
+            "trailer": "https://example.com/trailers/parasite.mp4"
+          }
+        },
+        {
+          "id": "MOV009",
+          "title": "The Shawshank Redemption",
+          "subtitle": "Hope can set you free",
+          "description": "Two imprisoned men form a deep friendship, finding solace and eventual redemption through acts of common decency.",
+          "director": "Frank Darabont",
+          "cast": ["Tim Robbins", "Morgan Freeman"],
+          "genre": ["Drama"],
+          "language": "English",
+          "releaseYear": 1994,
+          "durationMinutes": 142,
+          "price": 3.99,
+          "currency": "USD",
+          "type": "Digital Rental",
+          "rating": 4.9,
+          "ratingCount": 2500000,
+          "media": {
+            "thumbnails": [
+              "https://images.squarespace-cdn.com/content/v1/5c75dfa97d0c9166551f52b1/9351f4e2-94f9-42e2-81df-003d5fe7b8e0/9964546b0ba1f6e14a6045e34b341f8ca2a3569752c5afed95b89682fcde1a68._RI_V_TTW_.jpg"
+            ],
+            "trailer": "https://example.com/trailers/shawshank.mp4"
+          }
+        },
+        {
+          "id": "MOV010",
+          "title": "La La Land",
+          "subtitle": "A modern musical romance",
+          "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while struggling to maintain their relationship.",
+          "director": "Damien Chazelle",
+          "cast": ["Ryan Gosling", "Emma Stone"],
+          "genre": ["Musical", "Romance", "Drama"],
+          "language": "English",
+          "releaseYear": 2016,
+          "durationMinutes": 128,
+          "price": 3.99,
+          "currency": "USD",
+          "type": "Digital Rental",
+          "rating": 4.7,
+          "ratingCount": 1100000,
+          "media": {
+            "thumbnails": [
+              "https://m.media-amazon.com/images/I/91PaWpDPwkL._UF1000,1000_QL80_.jpg"
+            ],
+            "trailer": "https://example.com/trailers/lalaland.mp4"
+          }
+        }
+      ]
+    }
+  ]
+}
